@@ -1,8 +1,6 @@
 # Task A
 Drawing the line pattern as shown in “Reference Grid.png” image on the “Task.png”
 image.
-### Link 
-Images for reference - https://drive.google.com/drive/folders/1P3Ibg6j4pSEetdNvYd6WIkLRzilb3wyo?usp=drive_link
 
 ## Solution
 ### Pixel Extraction
