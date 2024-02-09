@@ -1,7 +1,6 @@
 # Task B
 
-To place the given 4 aruco-marker images [“Ha.jpg”, “HaHa.jpg”, “XD.jpg”,
-“LAMO.jpg”] on the boxes of “CVTask.png” image as given below :
+To place the given 4 aruco-marker images on the boxes of “CVTask.png” image as given below :
 <pre>
  Box Color-----Marker ID
   Green-----------1
